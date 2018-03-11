@@ -24,7 +24,7 @@ $(function() {
 
   $(".devour-burger").on("click", function(event) {
     var id = $(this).data("id");
-    var devoured = $(this).data("devoured");
+    var devoured = true;
 
     var devouredBurger = {
       devoured: devoured
