@@ -1,9 +1,9 @@
 # burger
 
-###Overview
+### Overview
 A Node, Express, Handlebars, and MySQL burger app that accepts user inputs for the names of burgers they'd like to eat... and then an option to devour them! You can view the app live on Heroku here.
 
-###Functionality
+### Functionality
 Using an ORM, the app has 3 basic CRUD functions...
 
 - READ all entries from the MySQL database and display them to the DOM using Handlebars.
@@ -14,5 +14,5 @@ Using an ORM, the app has 3 basic CRUD functions...
 
 The app's front-end design uses Bootstrap.
 
-###Screenshot
+### Screenshot
 ![screenshot](https://raw.githubusercontent.com/ninjaginja/burger/master/public/assets/img/Eat-da-Burger_screenshot.png)
